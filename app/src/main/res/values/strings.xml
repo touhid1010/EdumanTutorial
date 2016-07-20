@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eduman Tutorial</string>
+    <string name="action_clear_cache">Reset Index</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_rate">Rate</string>
+    <string name="action_share">Share</string>
+    <string name="action_more_apps">More Apps</string>
+    <string name="action_about">About</string>
+    <string name="action_exit">Exit</string>
+    <string name="developer_company_name">Netizen it Ltd.</string>
+    <string name="toast_google_play_not_installed">Google Play not installed on your device.</string>
+</resources>

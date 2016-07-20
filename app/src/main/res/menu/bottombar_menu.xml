@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- given 2 more extra item to disable default selected item and
+     make space before and after tabs -->
+
+    <item android:id="@+id/none"
+        android:visible="false"
+        android:enabled="false"
+        android:checkable="false"
+        android:title=""/>
+
+    <item
+        android:id="@+id/bottomBarItem_rateUs"
+        android:icon="@android:drawable/star_off"
+        android:title="Rate Us" />
+
+    <item
+        android:id="@+id/bottomBarItem_moreApps"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="More Apps" />
+
+    <item
+        android:id="@+id/bottomBarItem_aboutUs"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Contact Us" />
+
+    <item android:id="@+id/none2"
+        android:visible="false"
+        android:checkable="false"
+        android:enabled="false"
+        android:title=""/>
+
+</menu>
